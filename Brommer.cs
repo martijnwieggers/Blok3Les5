@@ -10,7 +10,7 @@ namespace Blok3Les5
     {
         public string Merk { get; set; }
 
-        //Taak 1: Voeg de volgende public properties toe:
+        //Voeg de volgende publieke eigenschappen toe:
 
         //Type (tekst)
 
@@ -29,9 +29,11 @@ namespace Blok3Les5
             this.Merk = Merk;
         }
 
-        //Taak 2:
-        //Voeg een constructor toe waarbij alle waarden direct kunnen worden meegegeven
+        //Stap 4: Voeg een constructor toe waarbij alle waarden direct kunnen worden meegegeven
 
 
     }
+
+   
+
 }
